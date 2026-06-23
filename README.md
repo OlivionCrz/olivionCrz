@@ -1,6 +1,7 @@
-## Hi there 👋
+##Sup
+
 # About Me:
-actualmente estoy trabajando en proyectos personales donde me gusta crear cosas y ser el que hace la empresa.<br>Me gusta mucho la conexión entre los sistemas, las estructuras de los sistemas, me gusta la nube, los buenos diseños web. <br>Saber que tengo un buen backend. <br>Actualmente estoy aprendiendo AWS, Python, JavaScript, PHP.<br>Fun fact, me encanta cuestionarme todo, me gustan las conspiraciones
+actualmente estoy trabajando en proyectos personales donde me gusta crear cosas y ser el que hace la empresa.<br>Me gusta mucho la conexión entre los sistemas, las estructuras de los sistemas, me gusta la nube, los buenos diseños web. <br>Saber que tengo un buen backend. <br>Actualmente estoy aprendiendo AWS, Python, JavaScript, PHP.<br>Gen Z stereotype.
 
 
 # Tech Stack:
